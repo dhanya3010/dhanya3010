@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @dhanya3010
 - 👀 I’m interested in software developing
-- 🌱 I’m currently studying information scince engineering
+- 🌱 I’m currently studying computer scince engineering
+<br>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhanya3010
+-hi
   
 
 <!---
